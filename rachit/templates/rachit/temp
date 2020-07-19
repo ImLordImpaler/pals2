@@ -1,0 +1,37 @@
+<!-- As a link -->
+<div class='row headerContact'>
+  <div class="col-sm-12 col-md-6 ">
+      <small id = 'headerContent' >Call us?  +91-9667593233</small>
+  </div>
+  
+  <div class="col-sm-12 col-md-6 ">
+    <small id = 'headerContent' >email-us: yadav.9312keshav.com</small>
+</div>
+</div>
+
+<style>
+  .headerContact{
+      background-color: black;
+      height: 50px;
+  }
+  #headerContent{
+      margin-bottom: 5px;
+      font-size: 15px;
+      color:white
+      
+      
+  }
+</style>
+<nav class="navbar navbar-dark bg-dark">
+  <a class="navbar-brand mb-0" id = 'logoHeading' href="{%url 'homepage'%}"<h3><i><b>TheCleaningCrew</b></i></h3></a>
+</nav>
+  <!-- As a heading -->
+
+  <style>
+    #logoHeading{
+      font-size: 30px
+    }
+  </style>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+ 
